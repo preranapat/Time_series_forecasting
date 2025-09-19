@@ -65,8 +65,7 @@ else:
     except FileNotFoundError:
         st.error("Default 'AirPassengers.csv' not found. Please upload the file.")
         st.stop()
-Pragyan AI and DS School
-3:43 PM
+
 if data is not None:
     # --- 2. Exploratory Data Analysis (EDA) ---
     st.header("1. Exploratory Data Analysis")
